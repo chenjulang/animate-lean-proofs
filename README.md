@@ -1,3 +1,5 @@
+[一键打开](https://gitpod.io/new/#https://github.com/chenjulang/animate-lean-proofs)
+
 # Animate Lean Proofs
 
 Code from [this video](https://youtu.be/KuxFWwwlEtc).
