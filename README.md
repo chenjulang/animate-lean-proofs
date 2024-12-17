@@ -1,4 +1,9 @@
+项目来源：https://github.com/dwrensha/animate-lean-proofs
+可视化改进：https://github.com/dwrensha/animate-lean-proofs/tree/c7e34e00aac5fabe24be279697a5d7040895f6ae
+https://github.com/mo271/Chess.lean/blob/main/Chess/Basic.lean
+
 [一键打开](https://gitpod.io/new/#https://github.com/chenjulang/animate-lean-proofs)
+
 
 # Animate Lean Proofs
 
